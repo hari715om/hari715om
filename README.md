@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hari+Om+Singh;Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Explorer;Innovation+Seeker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hari+Om+Singh;Full+Stack+Development;AI%2FML+Enthusiast;Blockchain+Explorer;Innovation+Seeker" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,12 +12,10 @@
 
 ```javascript
 const hariOm = {
-    currentRole: "Full Stack Developer & AI/ML Enthusiast",
+    currentRole: "Full Stack Development & AI/ML Enthusiast",
     education: "BTech Computer Science @ KIIT University",
+    currentFocus: ["Full-Stack Scaling", "Blockchain","Generative AI"],
     location: "Bhubaneswar, Odisha 🇮🇳",
-    currentFocus: ["Generative AI", "Full-Stack Scaling", "Blockchain"],
-    funFact: "I turn coffee into code and ideas into reality ☕→💻",
-    lifePhilosophy: "Code with passion, innovate with purpose"
 };
 ```
 
@@ -29,14 +27,12 @@ const hariOm = {
 - 🚀 **Building** scalable full-stack applications
 - ⛓️ **Exploring** blockchain technology with Solana
 - 🌱 **Learning** advanced ML algorithms and architectures
-- 💡 **Contributing** to open-source projects
 
 ### 💬 Let's Talk About
 
 - React ecosystems and modern frontend architectures
 - Node.js backend development and API design
 - Python for AI/ML and data processing
-- Blockchain development and Web3 integration
 - Database optimization and system scaling
 
 ---
@@ -50,7 +46,6 @@ const hariOm = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend Power
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -61,34 +56,11 @@ const hariOm = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML & Analytics
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
 ### Blockchain & Web3
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 </div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-### 🍽️ QR-Based Restaurant Ordering System
-**Full-stack dining revolution** • *React.js, Node.js, MongoDB, Razorpay*
-
-Engineered a seamless dining experience with QR code integration, payment processing, and comprehensive admin dashboard. Features real-time order tracking and automated billing.
-
-### ⛓️ SolanaMint Suite
-**Blockchain token creation platform** • *React.js, Solana Web3.js, Phantom Wallet*
-
-Built a user-friendly interface for SPL token creation and minting on Solana blockchain. Implemented secure wallet authentication and transaction signing with Phantom integration.
 
 ---
 
@@ -111,21 +83,9 @@ Built a user-friendly interface for SPL token creation and minting on Solana blo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari715om&theme=github-compact&hide_border=true" />
 </div>
 
----
-
-## 🏆 Achievements & Certifications
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-</div>
 
-- 🤖 **Career Essentials in Generative AI** - Microsoft & LinkedIn
-- 🔧 **Software Engineering Job Simulation** - J.P. Morgan
-- 📊 **Google Analytics Certification**
-- 🧠 **AI-ML Virtual Internship** - Eduskill & AICTE
-- 💻 **Career Essentials in Software Development** - Microsoft & LinkedIn
-
----
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -138,7 +98,6 @@ Built a user-friendly interface for SPL token creation and minting on Solana blo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-om-singh715)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.omhari715@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari715om)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](mailto:singh.omhari715@gmail.com)
 
 </div>
 
